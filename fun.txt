@@ -5,6 +5,7 @@ my friends are-
 0> rohan
 1> vishal
 3>pankaj
+5>rushi
 
 
 
