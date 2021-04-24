@@ -4,7 +4,6 @@ my friends are-
 -1> umesh
 0> rohan
 1> vishal
-2>babalu
 1.5> sagar
 2> pankaj
 2.5> manya
