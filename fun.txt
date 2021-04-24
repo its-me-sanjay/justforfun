@@ -18,6 +18,8 @@ my friends are-
 4> harshal
 5> manoj
 6> yash
+100> ritesh
+101> nirmala
 
 
 
